@@ -1,0 +1,2 @@
+# Financial-Risk-Analysis-for-Loan-Approval-SQL-Power-BI-
+This project focuses on analyzing loan data to identify key factors contributing to financial risk and to understand patterns in loan approval performance. By leveraging SQL for robust data preparation and aggregation, and Power BI for interactive visualization, this solution provides actionable insights for lenders and financial institutions.
